@@ -10,5 +10,4 @@ The Account Data on a website or file (.json only currently)
 
 A Method to Report Login (in Python)
 
-Then just run login.py's method login() from whatever platform can call it!
-
+Then just run login.py's method login()!
